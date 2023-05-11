@@ -1,0 +1,6 @@
+title: NineTac
+logo: /assets/img/logo.png
+description: NinTac: Ultimate Tic-Tac-Toe is an iPhone, iPad, and MacOS puzzle game.  Play 2-player local, or online using Game Center.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
