@@ -26,4 +26,4 @@ Each move you make dictates the board your opponent must play on next. Choose yo
 
 Get ready to experience the ultimate Tic Tac Toe challenge. Download NineTac today and put your strategy skills to the test!
 
-[Download on the App Store](https://apps.apple.com/app/ninetac/idXXXXXXXXX)
+[Download on the App Store](https://apps.apple.com/us/app/ninetac-ultimate-tic-tac-toe/id6443587631)
