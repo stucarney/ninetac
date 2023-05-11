@@ -28,7 +28,14 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <nav>
-          <a href="mailto:{{site.email}}">Contact Us</a>
+          <ul>
+            <li>
+              <a href=".">Home</a>
+            </li>
+            <li>
+              <a href="privacy-policy.html">Privacy Policy</a>
+            </li>
+          </ul>
         </nav>
 
       </header>
@@ -40,6 +47,7 @@
 
       </section>
       <footer>
+        <a href="mailto:{{site.email}}">Contact Us</a>
         <p>&copy; {{ site.time | date: '%Y' }} NineTac. All rights reserved.</p>
       </footer>
     </div>
